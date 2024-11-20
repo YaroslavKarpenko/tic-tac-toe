@@ -14,7 +14,7 @@
 # Завантаження проекту
 
 ```
-git clone
+git clone https://github.com/YaroslavKarpenko/tic-tac-toe.git
 ```
 
 # Установка залежностей
